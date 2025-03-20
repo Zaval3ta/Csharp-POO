@@ -7,13 +7,13 @@
             Sale sale1 = new Sale(100, DateTime.Now); //Creacion de un objeto de la clase Sale
             //.Now es una propiedad de la clase DateTime que devuelve la fecha y hora actual
             sale1.Show(); //Llamada al metodo Show de la clase Sale
-            Console.WriteLine(sale1.GetInfo());
+            Console.WriteLine(sale1.GetInfo()); //Llamada al metodo GetInfo de la clase Sale
         }
     }
 
     class Sale 
     {
-        //Parametros de la clase
+        //Atributos de la clase
         int total;
         DateTime date; //DateTime es una clase de C# que representa una fecha y hora
         //Pueden haber mas clases dentro de una clase
