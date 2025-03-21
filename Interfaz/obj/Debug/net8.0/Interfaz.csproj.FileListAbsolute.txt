@@ -1,0 +1,15 @@
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\bin\Debug\net8.0\Interfaz.exe
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\bin\Debug\net8.0\Interfaz.deps.json
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\bin\Debug\net8.0\Interfaz.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\bin\Debug\net8.0\Interfaz.dll
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\bin\Debug\net8.0\Interfaz.pdb
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.sourcelink.json
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.dll
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\refint\Interfaz.dll
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.pdb
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\Interfaz.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\POO\Interfaz\obj\Debug\net8.0\ref\Interfaz.dll
