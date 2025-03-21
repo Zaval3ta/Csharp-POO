@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Zaval3ta\\Desktop\\POO\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF518BF-41AD-40F4-A5CD-5403F0574F0F}|JSON\\JSON.csproj|c:\\users\\zaval3ta\\desktop\\poo\\json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF518BF-41AD-40F4-A5CD-5403F0574F0F}|JSON\\JSON.csproj|solutionrelative:json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,7 +22,20 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zaval3ta\\Desktop\\POO\\JSON\\Program.cs",
+              "RelativeDocumentMoniker": "JSON\\Program.cs",
+              "ToolTip": "C:\\Users\\Zaval3ta\\Desktop\\POO\\JSON\\Program.cs",
+              "RelativeToolTip": "JSON\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:44:21.985Z",
+              "EditorCaption": ""
             }
           ]
         }
