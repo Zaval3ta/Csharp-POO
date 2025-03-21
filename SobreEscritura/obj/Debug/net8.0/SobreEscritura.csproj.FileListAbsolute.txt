@@ -1,0 +1,15 @@
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\bin\Debug\net8.0\SobreEscritura.exe
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\bin\Debug\net8.0\SobreEscritura.deps.json
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\bin\Debug\net8.0\SobreEscritura.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\bin\Debug\net8.0\SobreEscritura.dll
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\bin\Debug\net8.0\SobreEscritura.pdb
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.sourcelink.json
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.dll
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\refint\SobreEscritura.dll
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.pdb
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\SobreEscritura.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\POO\SobreEscritura\obj\Debug\net8.0\ref\SobreEscritura.dll
